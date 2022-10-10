@@ -8,5 +8,5 @@ My goal is to provide anyone who wants to self-learn coding a path
 - Community
 
 ### References
-- [Roadmaps to build skills in various areas] (https://github.com/kamranahmedse/developer-roadmap)
+- [Roadmaps to build skills in various areas | https://github.com/kamranahmedse/developer-roadmap]
 
