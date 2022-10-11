@@ -1,18 +1,16 @@
 ## Goals
-My goal is to provide anyone who wants to self-learn coding a path
+My goal is to provide anyone who wants to self-learn coding a set of curate resources that they can work with in a self-paced manner
 
 ### Absolute beginners guide to start coding
-- Tools
 - Tutorials
   - Markdown  
-    - [From GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
-    - [Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/)
+    - [By GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+    - [By MarkdownTutorial](https://www.markdowntutorial.com/lesson/1/)
   - Web Dev
-    - [From Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners) 
+    - [By Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners) 
   - Free website hosting
-    - [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
-- Examples
-- Community
+    - [By GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
+
 
 ### Other resources
 - [Roadmaps to build skills in various areas](https://github.com/kamranahmedse/developer-roadmap)
