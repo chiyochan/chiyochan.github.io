@@ -3,6 +3,7 @@ My goal is to provide anyone who wants to self-learn coding a set of curate reso
 
 ### Absolute beginners guide to start coding
 - Tutorials
+  - [W3Schools](https://www.w3schools.com/)
   - Markdown  
     - [By GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
     - [By MarkdownTutorial](https://www.markdowntutorial.com/lesson/1/)
